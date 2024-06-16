@@ -1,5 +1,7 @@
 With this code, you can display CO2, temperature, and humidity readings with a ESP32-2432S028 dev board (aka Cheap Yellow Display) and a SCD40/41 sensor.
 
+Two versions of code, one is display only and the other will display and send readings to influxdb.
+
 Use the cable supplied with the CYD plugged in to CN1
 
 Black - Ground
