@@ -2,7 +2,7 @@ With this code, you can display CO2, temperature, and humidity readings with a E
 
 Two versions of code, one is display only and the other will display and send readings to influxdb.
 
-20ppm is added in the code as the SCD4x sensors auto calibrate to 400ppm, and atmospheric CO2 is closer to 420ppm
+20ppm is added in the code as the SCD4x sensors auto calibrate to 400ppm, and atmospheric CO2 is closer to 420ppm (you can adjust as you like)
 
 Use the cable supplied with the CYD plugged in to CN1
 
